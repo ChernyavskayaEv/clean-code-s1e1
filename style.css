@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.header { text-align: center;
-}
+  .header { 
+    text-align: center;
+  }
 }
 .main-content {
   display: block;
@@ -114,7 +115,7 @@ input,button{
   font-size: 18px;
   width: 226px;
 }
-.list-item >  .task[type="text"] {
+.list-item > .task[type="text"] {
   width: 226px
 }
 
